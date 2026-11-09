@@ -1,0 +1,89 @@
+@import "tailwindcss";
+
+/* Design tokens. Dark is the default (and currently only) theme. */
+@theme {
+  --color-bg: #060a16;
+  --color-bg-raised: #0b1222;
+  --color-surface: #0f1729;
+  --color-surface-2: #152038;
+  --color-border: #22304f;
+  --color-border-strong: #314469;
+  --color-text: #e9edf8;
+  --color-muted: #8d99b8;
+  --color-faint: #5d6a8a;
+
+  --color-gold: #f5c451;
+  --color-gold-strong: #e3a92b;
+  --color-electric: #3ba7ff;
+  --color-violet: #8b5cf6;
+  --color-success: #2dd4a0;
+  --color-danger: #f45d7a;
+  --color-warning: #f5a524;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-exo), var(--font-inter), ui-sans-serif, sans-serif;
+
+  --radius-card: 1rem;
+  --shadow-glow-gold: 0 0 0 1px rgb(245 196 81 / 0.25), 0 8px 32px -8px rgb(245 196 81 / 0.25);
+  --shadow-glow-electric: 0 0 0 1px rgb(59 167 255 / 0.25), 0 8px 32px -8px rgb(59 167 255 / 0.3);
+
+  --animate-fade-up: fade-up 0.4s ease-out both;
+  --animate-shimmer: shimmer 1.6s linear infinite;
+
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes shimmer {
+    from { background-position: -200% 0; }
+    to { background-position: 200% 0; }
+  }
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  background: var(--color-bg);
+}
+
+body {
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgb(139 92 246 / 0.12), transparent 60%),
+    radial-gradient(900px 500px at 100% 0%, rgb(59 167 255 / 0.10), transparent 60%),
+    var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background: rgb(245 196 81 / 0.35);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-electric);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@utility text-gradient-gold {
+  background: linear-gradient(100deg, #ffe39a, var(--color-gold) 40%, var(--color-gold-strong));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@utility skeleton {
+  background: linear-gradient(90deg, var(--color-surface) 25%, var(--color-surface-2) 50%, var(--color-surface) 75%);
+  background-size: 200% 100%;
+  animation: var(--animate-shimmer);
+  border-radius: 0.5rem;
+}

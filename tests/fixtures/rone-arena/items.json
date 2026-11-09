@@ -1,0 +1,130 @@
+{
+ "code": 0,
+ "message": "OK",
+ "data": {
+  "records": [
+   {
+    "_createdAt": 1778228703156,
+    "_id": "69fd9ddf54ae2bda46fdee29",
+    "_updatedAt": 1778228703156,
+    "data": {
+     "equipicon": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Fmlbb%2Fhomepage%2F100_cc8a7730e6d539ac10d2e0ed91bf2785.png",
+     "equipid": 3207,
+     "equipname": "Immortality",
+     "equipskill1": "\nImmortal: Resurrect 2.5s upon death and get 16% HP and a shield that can absorb 150(+70*Hero Level) damage. Shield lasts 3s. This effect has a 210s cooldown.",
+     "equipskill2": "\n: ",
+     "equipskill3": "\n: ",
+     "equipskill4": "\n: ",
+     "equipskill5": "\n: ",
+     "equipskill6": "\n: ",
+     "equipskill7": "\n: ",
+     "equipskilldesc": "\nImmortal: Resurrect 2.5s upon death and get 16% HP and a shield that can absorb 150(+70*Hero Level) damage. Shield lasts 3s. This effect has a 210s cooldown.",
+     "equiptips": "+850 Extra Max HP<br>+15 Extra Physical Defense<br>",
+     "equiptype": "2",
+     "equiptypename": "Defense",
+     "targetequipid": ""
+    },
+    "id": 106968,
+    "sourceId": 2713995
+   },
+   {
+    "_createdAt": 1778228703156,
+    "_id": "69fd9ddf54ae2bda46fdee28",
+    "_updatedAt": 1778228703156,
+    "data": {
+     "equipicon": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Fmlbb%2Fhomepage%2F100_d9bb48a8df64ae5065d370adca6a5153.png",
+     "equipid": 3205,
+     "equipname": "Athena's Shield",
+     "equipskill1": "\nShield: Upon taking Magic Damage from enemy hero skills or Basic Attacks, reduces Magic Damage taken by 25% for 3s (including the damage that triggers the effect). Regains this effect 5s after leaving combat.",
+     "equipskill2": "\n: ",
+     "equipskill3": "\n: ",
+     "equipskill4": "\n: ",
+     "equipskill5": "\n: ",
+     "equipskill6": "\n: ",
+     "equipskill7": "\n: ",
+     "equipskilldesc": "\nShield: Upon taking Magic Damage from enemy hero skills or Basic Attacks, reduces Magic Damage taken by 25% for 3s (including the damage that triggers the effect). Regains this effect 5s after leaving combat.",
+     "equiptips": "+900 Extra Max HP<br>+48 Extra Magic Defense<br>+2 HP Regen<br>",
+     "equiptype": "2",
+     "equiptypename": "Defense",
+     "targetequipid": ""
+    },
+    "id": 106967,
+    "sourceId": 2713995
+   },
+   {
+    "_createdAt": 1778228703156,
+    "_id": "69fd9ddf54ae2bda46fdee18",
+    "_updatedAt": 1778228703156,
+    "data": {
+     "equipicon": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Fmlbb%2Fhomepage%2F100_25c17fb08406548b8476673ce7fc3078.png",
+     "equipid": 3102,
+     "equipname": "Holy Crystal",
+     "equipskill1": "\nMystery: Gains 21%-35% extra Magic Power (scales with level).",
+     "equipskill2": "\n: ",
+     "equipskill3": "\n: ",
+     "equipskill4": "\n: ",
+     "equipskill5": "\n: ",
+     "equipskill6": "\n: ",
+     "equipskill7": "\n: ",
+     "equipskilldesc": "\nMystery: Gains 21%-35% extra Magic Power (scales with level).",
+     "equiptips": "+165 Magic Power<br>",
+     "equiptype": "1",
+     "equiptypename": "Magic",
+     "targetequipid": ""
+    },
+    "id": 106951,
+    "sourceId": 2713995
+   },
+   {
+    "_createdAt": 1778228703156,
+    "_id": "69fd9ddf54ae2bda46fdee11",
+    "_updatedAt": 1778228703156,
+    "data": {
+     "equipicon": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Fmlbb%2Fhomepage%2F100_9c06b97bb75d8a81e28a87df1ab92193.png",
+     "equipid": 3005,
+     "equipname": "Windtalker",
+     "equipskill1": "\nTyphoon: Every 5-2s (reduced by 0.2s for each Basic Attack), the next Basic Attack will hit up to 3 enemy units for 150-362 Magic Damage. (This attack can Crit and the damage increases to 200% against Minions.)",
+     "equipskill2": "\n: ",
+     "equipskill3": "\n: ",
+     "equipskill4": "\n: ",
+     "equipskill5": "\n: ",
+     "equipskill6": "\n: ",
+     "equipskill7": "\n: ",
+     "equipskilldesc": "\nTyphoon: Every 5-2s (reduced by 0.2s for each Basic Attack), the next Basic Attack will hit up to 3 enemy units for 150-362 Magic Damage. (This attack can Crit and the damage increases to 200% against Minions.)",
+     "equiptips": "+35% Extra Attack Speed<br>+20% Crit Chance<br>+20 Movement Speed<br>",
+     "equiptype": "0",
+     "equiptypename": "Attack",
+     "targetequipid": ""
+    },
+    "id": 106944,
+    "sourceId": 2713995
+   },
+   {
+    "_createdAt": 1778228703156,
+    "_id": "69fd9ddf54ae2bda46fdee0f",
+    "_updatedAt": 1778228703156,
+    "data": {
+     "equipicon": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Fmlbb%2Fhomepage%2F100_f9fa31f80ff0aa02216bc85efe81ea1f.png",
+     "equipid": 3008,
+     "equipname": "Blade of Despair",
+     "equipskill1": "\nDespair: Dealing damage to non-Minion enemies below 50% HP increases Physical Attack by 25% for 2s (takes effect before the damage is dealt).",
+     "equipskill2": "\n: ",
+     "equipskill3": "\n: ",
+     "equipskill4": "\n: ",
+     "equipskill5": "\n: ",
+     "equipskill6": "\n: ",
+     "equipskill7": "\n: ",
+     "equipskilldesc": "\nDespair: Dealing damage to non-Minion enemies below 50% HP increases Physical Attack by 25% for 2s (takes effect before the damage is dealt).",
+     "equiptips": "+160 Extra Physical Attack<br>+5% Movement Speed<br>",
+     "equiptype": "0",
+     "equiptypename": "Attack",
+     "targetequipid": ""
+    },
+    "id": 106942,
+    "sourceId": 2713995
+   }
+  ],
+  "total": 5
+ },
+ "traceID": null
+}

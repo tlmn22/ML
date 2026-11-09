@@ -1,0 +1,238 @@
+{
+  "source": "GET https://arena.rone.dev/api/academy/ranks?size=100&lang=en",
+  "captured_at": "2026-11-05T10:16:58.927Z",
+  "bands": [
+    {
+      "caption": "1-4勇士Ⅲ",
+      "bigrank": 1,
+      "minrank": "1",
+      "rankid_start": 1,
+      "rankid_end": 4,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/e8659ed5040a378701beca13ebdc4fba.png"
+    },
+    {
+      "caption": "5-7勇士Ⅱ",
+      "bigrank": 1,
+      "minrank": "2",
+      "rankid_start": 5,
+      "rankid_end": 7,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/e8659ed5040a378701beca13ebdc4fba.png"
+    },
+    {
+      "caption": "8-10勇士Ⅰ",
+      "bigrank": 1,
+      "minrank": "3",
+      "rankid_start": 8,
+      "rankid_end": 10,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/e8659ed5040a378701beca13ebdc4fba.png"
+    },
+    {
+      "caption": "11-15精英Ⅲ",
+      "bigrank": 2,
+      "minrank": "4",
+      "rankid_start": 11,
+      "rankid_end": 15,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/a59c039465d5f17165243026c42b9d2c.png"
+    },
+    {
+      "caption": "16-20精英Ⅱ",
+      "bigrank": 2,
+      "minrank": "5",
+      "rankid_start": 16,
+      "rankid_end": 20,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/a59c039465d5f17165243026c42b9d2c.png"
+    },
+    {
+      "caption": "21-25精英Ⅰ",
+      "bigrank": 2,
+      "minrank": "6",
+      "rankid_start": 21,
+      "rankid_end": 25,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/a59c039465d5f17165243026c42b9d2c.png"
+    },
+    {
+      "caption": "26-30大师Ⅳ",
+      "bigrank": 3,
+      "minrank": "7",
+      "rankid_start": 26,
+      "rankid_end": 30,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/ca966487da98a5e2732f4c56a05f33d2.png"
+    },
+    {
+      "caption": "31-35大师Ⅲ",
+      "bigrank": 3,
+      "minrank": "8",
+      "rankid_start": 31,
+      "rankid_end": 35,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/ca966487da98a5e2732f4c56a05f33d2.png"
+    },
+    {
+      "caption": "36-40大师Ⅱ",
+      "bigrank": 3,
+      "minrank": "9",
+      "rankid_start": 36,
+      "rankid_end": 40,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/ca966487da98a5e2732f4c56a05f33d2.png"
+    },
+    {
+      "caption": "41-45大师Ⅰ",
+      "bigrank": 3,
+      "minrank": "10",
+      "rankid_start": 41,
+      "rankid_end": 45,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/ca966487da98a5e2732f4c56a05f33d2.png"
+    },
+    {
+      "caption": "46-51宗师Ⅴ",
+      "bigrank": 4,
+      "minrank": "11",
+      "rankid_start": 46,
+      "rankid_end": 51,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/d5e6df23d867833a204b82e44836bd8a.png"
+    },
+    {
+      "caption": "52-57宗师Ⅳ",
+      "bigrank": 4,
+      "minrank": "12",
+      "rankid_start": 52,
+      "rankid_end": 57,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/d5e6df23d867833a204b82e44836bd8a.png"
+    },
+    {
+      "caption": "58-63宗师Ⅲ",
+      "bigrank": 4,
+      "minrank": "13",
+      "rankid_start": 58,
+      "rankid_end": 63,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/d5e6df23d867833a204b82e44836bd8a.png"
+    },
+    {
+      "caption": "64-69宗师Ⅱ",
+      "bigrank": 4,
+      "minrank": "14",
+      "rankid_start": 64,
+      "rankid_end": 69,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/d5e6df23d867833a204b82e44836bd8a.png"
+    },
+    {
+      "caption": "70-75宗师Ⅰ",
+      "bigrank": 4,
+      "minrank": "15",
+      "rankid_start": 70,
+      "rankid_end": 75,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/d5e6df23d867833a204b82e44836bd8a.png"
+    },
+    {
+      "caption": "76-81史诗Ⅴ",
+      "bigrank": 5,
+      "minrank": "16",
+      "rankid_start": 76,
+      "rankid_end": 81,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c9aaf42eb6c6f759d13b1d4da35335b7.png"
+    },
+    {
+      "caption": "82-87史诗Ⅳ",
+      "bigrank": 5,
+      "minrank": "17",
+      "rankid_start": 82,
+      "rankid_end": 87,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c9aaf42eb6c6f759d13b1d4da35335b7.png"
+    },
+    {
+      "caption": "88-93史诗Ⅲ",
+      "bigrank": 5,
+      "minrank": "18",
+      "rankid_start": 88,
+      "rankid_end": 93,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c9aaf42eb6c6f759d13b1d4da35335b7.png"
+    },
+    {
+      "caption": "94-99史诗Ⅱ",
+      "bigrank": 5,
+      "minrank": "19",
+      "rankid_start": 94,
+      "rankid_end": 99,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c9aaf42eb6c6f759d13b1d4da35335b7.png"
+    },
+    {
+      "caption": "100-105史诗Ⅰ",
+      "bigrank": 5,
+      "minrank": "20",
+      "rankid_start": 100,
+      "rankid_end": 105,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c9aaf42eb6c6f759d13b1d4da35335b7.png"
+    },
+    {
+      "caption": "106-111传奇Ⅴ",
+      "bigrank": 6,
+      "minrank": "21",
+      "rankid_start": 106,
+      "rankid_end": 111,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c1aa051fd25d3b88b7b2b9ac145b2b52.png"
+    },
+    {
+      "caption": "112-117传奇Ⅳ",
+      "bigrank": 6,
+      "minrank": "22",
+      "rankid_start": 112,
+      "rankid_end": 117,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c1aa051fd25d3b88b7b2b9ac145b2b52.png"
+    },
+    {
+      "caption": "118-123传奇Ⅲ",
+      "bigrank": 6,
+      "minrank": "23",
+      "rankid_start": 118,
+      "rankid_end": 123,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c1aa051fd25d3b88b7b2b9ac145b2b52.png"
+    },
+    {
+      "caption": "124-129传奇Ⅱ",
+      "bigrank": 6,
+      "minrank": "24",
+      "rankid_start": 124,
+      "rankid_end": 129,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c1aa051fd25d3b88b7b2b9ac145b2b52.png"
+    },
+    {
+      "caption": "130-135传奇Ⅰ",
+      "bigrank": 6,
+      "minrank": "25",
+      "rankid_start": 130,
+      "rankid_end": 135,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/c1aa051fd25d3b88b7b2b9ac145b2b52.png"
+    },
+    {
+      "caption": "136-160神话",
+      "bigrank": 7,
+      "minrank": null,
+      "rankid_start": 136,
+      "rankid_end": 160,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/641379610654942449fa3d5cf633d38c.png"
+    },
+    {
+      "caption": "161-185百战神话",
+      "bigrank": 7,
+      "minrank": null,
+      "rankid_start": 161,
+      "rankid_end": 185,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/078ee96145da945b0cbbb8e2a48ca7c9.png"
+    },
+    {
+      "caption": "186-235至尊神话",
+      "bigrank": 7,
+      "minrank": null,
+      "rankid_start": 186,
+      "rankid_end": 235,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/acc8347c7284e6d9caa09d3b3f8e0948.png"
+    },
+    {
+      "caption": "236-9999荣耀神话",
+      "bigrank": 7,
+      "minrank": null,
+      "rankid_start": 236,
+      "rankid_end": 9999,
+      "icon": "https://akmweb.youngjoygame.com/web/gms/image/191257b84f57be74430d1964c4b01c8b.png"
+    }
+  ]
+}
